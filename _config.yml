@@ -3,7 +3,7 @@ remote_theme: Drassil/git-wiki-theme@master
 title: "Metallurgent Wiki"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-baseurl: /wiki
+baseurl:
 # (string) Description of your wiki
 description:
 # (boolean) disable edit functionalities (edit/delete/add pages)
@@ -34,10 +34,10 @@ google_analytics:
 wiki_folder: "wiki"
 # (boolean) if you're using github wiki as submodule then this config
 # must be enabled to allow tool buttons to work properly
-use_github_wiki: false
+use_github_wiki: true
 # (boolean) Enable "Edit with Prose.io" button in tools, it's a 3rd party
 # service to edit github markdown pages easily
-use_prose_io: true
+use_prose_io: false
 # Select search_engine component from:
 # - js: it uses a built in javascript component that uses generated js object
 # - js_rss: it uses a built in javascript component that uses generated  sitemap_full.xml to search inside your wiki with lunr library (slow and experimental)
@@ -68,11 +68,6 @@ highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-prose:
-  rooturl: 'wiki'
-  siteurl: 'https://metallurgent-wiki.github.io/'
-  relativeLinks: 'https://metallurgent-wiki.github.io/wiki/links.jsonp'
 
 defaults:
  - 
