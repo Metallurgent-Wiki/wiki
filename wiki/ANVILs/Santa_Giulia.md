@@ -30,12 +30,12 @@ Artist: Sky_Sheno[^2]
 
 | | **Gear** |
 | --- | --- |
-| Primary #1 | [CARUSO/AF03](GEAR/PRIMARY.md#CARUSO_AF03) Assault Rifle |
-| Primary #2 | [AGUJA I](GEAR/PRIMARY.md#AGUJA_I) Physical Blade |
+| Primary #1 | [CARUSO/AF03](GEAR/PRIMARY.md#carusoaf03) Assault Rifle |
+| Primary #2 | [AGUJA I](GEAR/PRIMARY.md#AGUJA-I) Physical Blade |
 | Secondary #1 | - |
 | Secondary #2 | - |
-| Tertiary #1 | [BANOROMINA/AM04](GEAR/TERTIARY.md#BANOROMINA_AM04) Multipurpose Missile |
-| Tertiary #2 | [BANOROMINA/AM04](GEAR/TERTIARY.md#BANOROMINA/AM04) Multipurpose Missile |
+| Tertiary #1 | [BANOROMINA/AM04](GEAR/TERTIARY.md#BANOROMINAAM04) Multipurpose Missile |
+| Tertiary #2 | [BANOROMINA/AM04](GEAR/TERTIARY.md#BANOROMINAAM04) Multipurpose Missile |
 | Equipment | [ACCARDO/CS01](GEAR/EQUIPMENT.md#ACCARDO_CS01) Radar Spoofer |
 
 [^1]: @metallurgent, https://x.com/metallurgent/status/1574194541313380352
