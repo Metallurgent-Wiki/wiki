@@ -1,3 +1,8 @@
+---
+tags: ANVIL, Gen1
+---
+
+
 # Santa Guilia
 > Designed by Italian defense monopoly SANFIERRO, the Giulia is a thoroughbred Vanguard Anvil, sporting a powerful engine and superior agility. The Giulia dances around enemy fire with ease, confounding sensors with its Radar Spoofer before savaging targets with its Physical Blade.
 - Metallugent, Twitter Post[^1]
