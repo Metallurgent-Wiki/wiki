@@ -5,8 +5,12 @@
 
  <div class="row">
   <div class="column">
+  <p>
+   some text
+  </p>
   </div>
   <div class="column">
+   <p>
 |   |   |
 |---|---|
 | Generation  | 1   |
@@ -18,6 +22,7 @@
 |   |   |
 |   |   |
 |   |   |
+    </p>
   </div>
 </div> 
 
