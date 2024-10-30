@@ -3,7 +3,7 @@
 - Metallugent, Twitter Post[^1]
 
 ![FdidqHQX0AYKCmu](https://github.com/user-attachments/assets/525e1456-13e8-4021-a733-fac1851fb082)
-Artist: @Sky_Sheno[^2]
+Artist: Sky_Sheno[^2]
 
 |   | **Fluff Stats**  |
 |---|---|
