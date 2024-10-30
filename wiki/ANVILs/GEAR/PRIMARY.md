@@ -1,5 +1,8 @@
 # Primary Weapons
 
-## Assault Rifles
-### CARUSO_AF03
+## Blades, Physical
+### AGUJA I
+
+## Rifles, Assault
+### CARUSO/AF03
 temp
