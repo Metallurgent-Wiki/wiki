@@ -30,6 +30,7 @@ One of the first [First Generation](/ANVIL-List.md#generation-1) to be field tri
 The creation of the Santa Guilia marked the turning point for C.M. Little & N.A. Sprinkle between casual creation and serious thought. 
 
 # Mechanical Build
+
 |   | **Components**  |
 |---|---|
 | CORE | GIULIA-CORPO |
