@@ -23,6 +23,13 @@ Artist: Sky_Sheno[^2]
 | FCS Optimal Range  | 240m  |
 | Armaments | Assault Rifle, Multipurpose Missile, Physical Blade, Radar Spoofer |
 
+# History
+One of the first [First Generation](/ANVIL-List.md#generation-1) to be field trialed. It became a venerated and proven model that the [EU](/Factions/EU.md) could rely on.
+
+# Meta-History
+The creation of the Santa Guilia marked the turning point for C.M. Little & N.A. Sprinkle between casual creation and serious thought. 
+
+# Mechanical Build
 |   | **Components**  |
 |---|---|
 | CORE | GIULIA-CORPO |
@@ -31,7 +38,7 @@ Artist: Sky_Sheno[^2]
 | RIGHT ARM | GIULIA-BRACCIO/R |
 | GENERATOR | GIULIA-POLOMNI |
 | ELECTRONICS | GIULIA-CERVELLO |
-| [FCS](Components/FCS.md) | F-GANS |
+| [FCS](COMPONENTS/FCS.md) | F-GANS |
 
 | | **Gear** |
 | --- | --- |
