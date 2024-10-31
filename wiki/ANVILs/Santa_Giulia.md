@@ -3,7 +3,7 @@ tags: ANVIL, Gen1
 ---
 
 
-# Santa Guilia
+# Santa Giulia
 > Designed by Italian defense monopoly SANFIERRO, the Giulia is a thoroughbred Vanguard Anvil, sporting a powerful engine and superior agility. The Giulia dances around enemy fire with ease, confounding sensors with its Radar Spoofer before savaging targets with its Physical Blade.
 - Metallugent, Twitter Post[^1]
 
@@ -27,7 +27,7 @@ Artist: Sky_Sheno[^2]
 One of the first [First Generation](/ANVIL-List.md#generation-1) to be field trialed. It became a venerated and proven model that the [EU](/Factions/EU.md) could rely on.
 
 # Meta-History
-The creation of the Santa Guilia marked the turning point for C.M. Little & N.A. Sprinkle between casual creation and serious thought. 
+The creation of the Santa Giulia marked the turning point for C.M. Little & N.A. Sprinkle between casual creation and serious thought. 
 
 # Mechanical Build
 
